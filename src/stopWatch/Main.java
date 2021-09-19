@@ -1,4 +1,4 @@
-package StopWatch;
+package stopWatch;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Fan;
+package fan;
 
 public class Fan {
     final int SLOW = 1, MEDIUM = 2, FAST = 3;
